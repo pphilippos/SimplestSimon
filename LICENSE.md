@@ -12,4 +12,4 @@ You are free to use, learn from, modify and distribute this creative work under 
 
 6. A redistribution shall include this license in its entirety.
 
-7. The author has the right to change this license for future versions of this work, as well as to update and clarify the author's original intentions of the current version, such as with regards to what is considered "fair use" by the author for future entities and technologies.  
+7. The author has the right to change this license for future versions of this work, as well as to update and clarify the author's original intentions of the current version, such as with regard to what is considered "fair use" by the author for future entities and technologies.  
