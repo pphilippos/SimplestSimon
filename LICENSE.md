@@ -1,4 +1,6 @@
-You are free to use, learn from, modify and distribute this creative work under the following conditions.
+Copyright 2024 Philippos Papaphilippou @ TCD 
+
+You are free to use, learn from, modify and distribute this creative work under the following conditions:
 
 1. No code, text, or other elements of this work can be used as an input to models for the purposes of training. Generative A.I. and language models are prohibited from using this work. These do not include search engines and related tools whose purpose is to index and appropriately point to the original source and author.
 
